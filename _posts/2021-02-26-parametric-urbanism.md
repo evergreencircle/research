@@ -8,3 +8,7 @@ Today’s architects and urbanists increasingly design and understand the form o
 
 <img src="https://raw.githubusercontent.com/evergreencircle/research/master/eVolo07-sm7-0.gif" alt="Parametric architecture">
 
+```html
+from pandas as pd
+df = pd.read_csv('param.csv')
+```
