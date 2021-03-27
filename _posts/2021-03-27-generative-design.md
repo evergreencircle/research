@@ -51,7 +51,7 @@ Refinery from Autodesk uses the NSGA-II optimization algorithm (a type of geneti
 
 <h2>Used Materials</h2>
 <ol>
-  <li><a style="font-size: 14px" href="https://damassets.autodesk.net/content/dam/autodesk/www/solutions/generative-design/autodesk-aec-generative-design-ebook.pdf">Demystifying Generative Design for Architecture, Engineering and Construction by Autodesk
+  <li><a style="font-size: 13px" href="https://damassets.autodesk.net/content/dam/autodesk/www/solutions/generative-design/autodesk-aec-generative-design-ebook.pdf">Demystifying Generative Design for Architecture, Engineering and Construction by Autodesk
 </a></li>
-<li><a  style="font-size: 14px" href="https://medium.com/autodesk-university/using-generative-design-in-construction-applications-e268c785b004">Using Generative Design in Construction Applications by Autodesk University</a>/li>
+<li><a  style="font-size: 13px" href="https://medium.com/autodesk-university/using-generative-design-in-construction-applications-e268c785b004">Using Generative Design in Construction Applications by Autodesk University</a></li>
 
