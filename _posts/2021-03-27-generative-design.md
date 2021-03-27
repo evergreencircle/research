@@ -11,10 +11,12 @@ You tell the software the results you want. With your guidance it arrives at the
 manipulate it in new ways, and a new generation of building design and construction was born.
 Computers overruled the tyranny of the right angle, and shapes and curves became possible
 not to just draw but to build.
+
 “Those original scripts drove the programs available at the time, and forms like Zaha Hadid’s Heydar Aliyev Center were born. But today scripts
 create algorithms that can control a much wider array of the digital tools deployed for building, yielding a new strategy with generative design
-and construction—a name that reflects not just the power that generative tools give architects and builders, but the important connection
+and construction — a name that reflects not just the power that generative tools give architects and builders, but the important connection
 between the design and construction process that generative tools make possible.” 
+
 — Phil Bernstein, Associate Dean and a Senior
 Lecturer at the Yale School of Architecture;
 Autodesk Fellow
