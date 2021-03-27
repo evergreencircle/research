@@ -49,9 +49,9 @@ After choosing a favorite design option, the designer uses or integrates this de
 <h2>Example</h2>
 Refinery from Autodesk uses the NSGA-II optimization algorithm (a type of genetic algorithm), which is a meta-heuristic optimization algorithm for multi-objective optimization. Genetic algorithms are commonly used to generate high-quality solutions to optimization and search problems by relying on bio-inspired operators such as mutation, crossover and selection. A genetic algorithm is a population-based optimization. Population-based approaches maintain and improve multiple candidate solutions, often using population characteristics to guide the search. Each round of the optimization processed in the genetic algorithm is called a generation. So, when you set the generation value to 40, the process of selection, cross over, and mutation happens 40 times for each population of 40 designs. You can read more here. The seed simply says where the algorithm should start. If you keep the seed at “64” and then do another run with the same inputs, you should get the same answer.
 
-<h4>Used Materials</h4>
+<h2>Used Materials</h2>
 <ol>
-  <li style="font-size: 13px"><a style="font-size: 13px" href="https://damassets.autodesk.net/content/dam/autodesk/www/solutions/generative-design/autodesk-aec-generative-design-ebook.pdf">Demystifying Generative Design for Architecture, Engineering and Construction by Autodesk
+  <li><a  href="https://damassets.autodesk.net/content/dam/autodesk/www/solutions/generative-design/autodesk-aec-generative-design-ebook.pdf">Demystifying Generative Design for Architecture, Engineering and Construction by Autodesk
 </a></li>
-<li style="font-size: 13px"><a  style="font-size: 13px" href="https://medium.com/autodesk-university/using-generative-design-in-construction-applications-e268c785b004">Using Generative Design in Construction Applications by Autodesk University</a></li>
+<li><a href="https://medium.com/autodesk-university/using-generative-design-in-construction-applications-e268c785b004">Using Generative Design in Construction Applications by Autodesk University</a></li>
 
