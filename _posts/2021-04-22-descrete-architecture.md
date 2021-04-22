@@ -62,7 +62,7 @@ articulated space, the project aimed to extensively use serialised building elem
 of unique, customized elements (Figure 2). To test the design method, a large-scale prototype of 2 x 1.5 x 0.3m was developed. It was assembled using
 more than four thousand pre-cast plaster components, intersecting and joining around a number of customized, 3D printed zones (Figure 4)
 
-<img src="https://raw.githubusercontent.com/evergreencircle/research/master/doubleblokhut_670.jpeg" alt="Blokhut">
+<img src="https://raw.githubusercontent.com/evergreencircle/research/master/doubleblokhut_670.jpg" alt="Blokhut">
 
 While computation can reduce the drudgery of repetitive tasks, generative design methods also help design and construction
 teams reach the ultimate goal of reducing waste and cost.
