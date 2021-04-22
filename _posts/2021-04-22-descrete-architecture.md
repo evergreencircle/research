@@ -26,8 +26,8 @@ while also new constraints are imposed. The principles of programmable and digit
 existing knowledge of prefabrication, modular construction, and design for manufacturing and assembly (DfMa) in the building construction. 
 
 <h2>Discrete Computation</h2>
-The Tallinn Architecture Biennale (TAB) installation is the first 1:1 scale, large prototype of the digital-discrete
-discourse. It was designed as a case-study, a Dominolike abstract model of a larger, scalable, and repeatable construction system for housing. 
+The Tallinn Architecture Biennale (TAB) installation is the first 1:1 scale, large prototype of the
+digital-discrete discourse. It was designed as a case-study, a Dominolike abstract model of a larger, scalable, and repeatable construction system for housing. 
 Therefore, the starting point of the project was the design of a large-scale housing block, from which the installation was later
 extracted.
 There are a number of Discrete Design Methods, one commonly used starts from a voxel-space where every
@@ -40,16 +40,17 @@ can be developed beforehand, which can then be applied and evaluated with either
 The emphasis on the part or bit re-emphasizes the discussion of part-to-whole relations. This notion, which has traditionally been important for architecture,
 disappeared from the discussions surrounding the digital as a result of an interest in holistic, continuous tropes such as topology and surface. Mereology
 (from the Greek mereo or "part") is the study of the relations between parts and the wholes they construct.
-Mereology specifically deals with hierarchies in partwhole relationships - a concept referred to as Meronomy or Partonomy (Simmons 2000). Object Oriented
+Mereology specifically deals with hierarchies in partwhole relationships -
+a concept referred to as Meronomy or Partonomy (Simmons 2000). Object Oriented
 Programming has a mereological character through its structure of classes and inheritance of classes. 
 Although mereology is an actual scientific study, developed by the Polish mathematician Lesniewski, it was initially the work of Levi Bryant 
 which was important for the development of the projects below. In the Democracy of Objects, Bryant describes the concept
 of "Strange Mereology", as a relation where every part is in itself a whole which is not reducible to its parts
-and where every part is not reducible to the whole (Bryant 2011). This kind of democratic part to whole relationships are typical for Object-Oriented philosophy.
-It can be argued that Architectural part-towhole relations are traditionally a non-strange Mereology, which means that the parts are never really autonomous from the whole, but are always reducible
+and where every part is not reducible to the whole (Bryant 2011). This kind of democratic part to whole relationships are typical for 
+Object-Oriented philosophy. It can be argued that Architectural part-towhole relations are traditionally a non-strange Mereology, which means that the parts are never really autonomous from the whole, but are always reducible
 to the whole. They have no existence outside of the whole. This non-strange mereological character is typical for top-down design methods, but essentially
-also for continuous design in general. To establish continuity, every part has to be reduced to a derivation of the whole. A good example of non-strange
-mereological structures is parametric surface panelisation. In panelisation, every piece is unique, and derived from a specific location on a surface. The large
+also for continuous design in general. To establish continuity, every part has to be reduced to a derivation of the whole.
+A good example of non-strange mereological structures is parametric surface panelisation. In panelisation, every piece is unique, and derived from a specific location on a surface. The large
 differentiation of pieces requires micromanagement of thousands of components, resulting in excessive labour and energy in assembly. Gramazio Kohler's
 Programmed Wall, previously mentioned, also falls in this category, as the orientation of every brick is a result of a continuous parametric function.
 
@@ -58,19 +59,16 @@ Programmed Wall, previously mentioned, also falls in this category, as the orien
 The Blokhut (2015) is a study for a villa in the Belgian community of Wetteren. The term "Blokhut" is a Dutch for Log Cabin - a hut built of whole or split
 logs. As a response to budget constraints, and at the same time a request for a differentiated and highly
 articulated space, the project aimed to extensively use serialised building elements. The Blokhut establishes a differentiated and adaptive architectural system which consists for 90% of serially repeated, discrete, prefabricated concrete elements, and for 10%
-of unique, customized elements (Figure 2). To test the design method, a large-scale prototype of 2 x 1.5 x 0.3m was developed. It was assembled using
-more than four thousand pre-cast plaster components, intersecting and joining around a number of customized, 3D printed zones (Figure 4)
+of unique, customized elements. To test the design method, a large-scale prototype of 2 x 1.5 x 0.3m was developed. It was assembled using
+more than four thousand pre-cast plaster components, intersecting and joining around a number of customized, 3D printed zones
 
 <img src="https://raw.githubusercontent.com/evergreencircle/research/master/doubleblokhut_670.jpg" alt="Blokhut">
 
-While computation can reduce the drudgery of repetitive tasks, generative design methods also help design and construction
-teams reach the ultimate goal of reducing waste and cost.
-
 <h2>Diamond Strata</h2>
-Diamond Strata (2016) is a further development of the Blokhut project, but does not require any customised pieces . The project brief was a multi-family
-house with three apartments in a rural area close to Brussels, Belgium.The project is an aggregation of a single, beam-like timber element. In this
+Diamond Strata (2016) is a further development of the Blokhut project, but does not require any customised pieces. The project brief was a multi-family
+house with three apartments in a rural area close to Brussels, Belgium. The project is an aggregation of a single, beam-like timber element. In this
 case, a hierarchical digital material was used - a discrete building element with multiple different scales which can cross-connect. The system consists of a
-linear and L-shaped element with a lego-like malefemale connection( Figure 5). The elements can connect through sliding joints on the lateral faces of the
+linear and L-shaped element with a lego-like malefemale connection. The elements can connect through sliding joints on the lateral faces of the
 piece. The hierarchical system is similar to OcTree optimisation, a procedure used in 3D graphics where space is partitioned with different scales of voxels dependent on the resolution required. Assembly time
 can be reduced as the scale of the parts is adaptable to the resolution desired.
 
