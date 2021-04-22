@@ -3,8 +3,8 @@ layout: post
 ---
 The notion of automation is becoming increasingly important in the building industry and the built environment at large.
 This is timely, as the productivity of the construction industry has essentially not increased since the end of the Second World War (McKinsey 2017). 
-The construction industry is one of the last to be “disrupted,” which means that currently a lot of venture capital is channeled in
-startups promising a future share of the market. Wework has become the biggest office owner in London. AirBnB
+The construction industry is one of the last to be “disrupted,” which means that currently a lot of venture capital is channeled 
+in startups promising a future share of the market. Wework has become the biggest office owner in London. AirBnB
 has already deeply impacted many cities, but is now also seeking to design and build its own housing with project Samara.
 Katerra has received significant amounts of funding with its promise to overhaul timber construction through vertically integrating the entire production chain.
 Alphabet’s Sidewalk Labs is set to develop Toronto’s Eastern Waterfront in return for data. 
@@ -15,7 +15,6 @@ Digital design and fabrication tools merely allow a specific type of design to b
 not appear "digital" or "parametric". This critique ties into a contemporary discussion on the post-digital. 
 The use of digital tools and techniques has matured to such an extent that their use is more critically questioned. So what does it mean for buildings 
 or material organisations to be digital ? Can material be organised in the same way as data? Or is there really no such thing as a digital architecture?
-
 <h2>Prefabrication and Programmable Matter</h2>
 This work on discrete building blocks and robotics relates to Hod Lipson’s Programmable Matter research, MIT’s CIAL modular robotics, 
 and the Digital Material Research at the Centre for Bits and Atoms, with projects such as Flexural Materials by Kenneth Cheung, or Bill-E by Benjamin
