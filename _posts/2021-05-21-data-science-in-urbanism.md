@@ -43,19 +43,20 @@ UrbanFootprint’s mission is to close this gap. We serve governments, enterpris
 
 <h3>Unfolded</h3>
   
-Geospatial Data Reinvented.
+<h4>Geospatial Data Reinvented.</h4>
 
 A geospatial analytics platform for data unification, enrichment, and visualization.
   
-Spatial Unification.
+<h4>Spatial Unification.</h4>
 
 Hexagon-based spatial indexing removes barriers between geospatial shapes. Effortlessly combine, aggregate and correlate datasets with different boundaries, such as states, counties, zip codes and census tracts.
   
-All-In-One Platform.
+<h4>All-In-One Platform.</h4>
 
 The geospatial features and datasets you need, packaged in one easy-to-use tool. Make geospatial insights with a few simple clicks, then share them as beautiful maps on the web.
 
-GPU-based Analytics and Visualization.
+<h4>GPU-based Analytics and Visualization.</h4>
+
 Our GPU powered technology provides unprecedented performance for rapid data exploration. Fluidly filter, aggregate, and play back million-row datasets directly in your browser.
 
 
