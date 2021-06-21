@@ -58,10 +58,10 @@ The geospatial features and datasets you need, packaged in one easy-to-use tool.
 <h4>GPU-based Analytics and Visualization.</h4>
 
 Our GPU powered technology provides unprecedented performance for rapid data exploration. Fluidly filter, aggregate, and play back million-row datasets directly in your browser.
-<br>
 
+<h4>
 <img src="https://raw.githubusercontent.com/evergreencircle/research/master/man.png" alt="Data Science in Urbanism">
-
+</h4>
 
 <h2>Used Materials</h2>
 <ol>
