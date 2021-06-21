@@ -1,7 +1,7 @@
 ---
 layout: post
 ---
-<h2><Univisity Programs></h2>
+<h2>Univisity Programs</h2>
 <h1>MIT</h1>
 
 Q1. Often, when one conjures a mental image of ‘smart cities’ we think of cities that are using sensors to provide more – and more complete – data. Is there an alternative model of expanding urban science?
@@ -33,15 +33,15 @@ We hope 11-6 can attract students who are interested in computing and prototypin
 <li>Leadership skills for your chosen career path in an entrepreneurial venture or existing organization</li>
 </ul>
 
-<Companies>
-<h2>Urban Footprint</h2>
+<h2>Companies</h2>
+<h1>Urban Footprint</h1>
   
 We deliver Urban Intelligence that empowers those who build our world to design a more efficient, equitable, and resilient future.
 We believe that organizations equipped with the best data and latest tools make more sound decisions. Accelerating climate change, deepening social inequities, and the profound, disparate impacts of the COVID-19 crisis have all laid bare the inadequacy of current systems to provide decision makers with the clear and honest information they need to drive effective and equitable decisions.
 
 UrbanFootprint’s mission is to close this gap. We serve governments, enterprises, and other stakeholders with comprehensive, granular, and context-rich data about the urban and natural landscape, paired with highly targeted insights that map and measure risk and opportunity, to prioritize investments and resources where they’re needed most.
 
-<h2>Unfolded</h2>
+<h1>Unfolded</h1>
   
 Geospatial Data Reinvented
 A geospatial analytics platform for data unification, enrichment, and visualization.
