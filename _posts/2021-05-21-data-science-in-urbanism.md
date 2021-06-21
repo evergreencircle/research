@@ -1,8 +1,8 @@
 ---
 layout: post
 ---
-<h2>Univisity Programs</h2>
-<h1>MIT</h1>
+<h2>University Programs</h2>
+<h3>MIT</h3>
 
 Q1. Often, when one conjures a mental image of ‘smart cities’ we think of cities that are using sensors to provide more – and more complete – data. Is there an alternative model of expanding urban science?
 
@@ -18,41 +18,44 @@ Q3. Could you speak more to local, tangible products that can be implemented by 
 
 Yuan: I am very interested in combining computing and urban research methods to create tangible applications for better quality-of-life at local scale. One of my previous projects published in Health & Place, as an example, investigated street tree species in New York City and their pollen’s impact on local air quality and respiratory health. This study illustrates how cross-domain data integration at high spatial resolution can address complex environmental justice issues by quantifying local environmental, land use, and socio-economic characteristics. The availability of data resources from numerous activities in cities provides new opportunities for improved urban decision-making and more efficient and equitable services for citizens. In addition to the hypothesis testing, these data integration methods can be leveraged to inform residents through information visualizations or a location-based mobile application.
 
-We hope 11-6 can attract students who are interested in computing and prototyping, but also care about urban issues related to sustainability, transportation, equity, health, and economic development. One possible future project is to explore innovations for more active, social, and healthy living through a combined computing and urban studies methods. Students will collect data, design analysis, and create prototypes that may have a real-world implementation in MIT community, possibly in an extended Cambridge area. Students can apply the programming and analytical skills they have learned from computer science courses to explore possibilities for better design, planning, operation, and policy in urban context. Through this process, they will also understand the potential social-ecological-economic consequences of technology deployment and data-driven decision-making in reality.
+We hope the programm will attract students who are interested in computing and prototyping, but also care about urban issues related to sustainability, transportation, equity, health, and economic development. One possible future project is to explore innovations for more active, social, and healthy living through a combined computing and urban studies methods. Students will collect data, design analysis, and create prototypes that may have a real-world implementation in MIT community, possibly in an extended Cambridge area. Students can apply the programming and analytical skills they have learned from computer science courses to explore possibilities for better design, planning, operation, and policy in urban context. Through this process, they will also understand the potential social-ecological-economic consequences of technology deployment and data-driven decision-making in reality.
 
-<h1>NYU</h1>
+<h3>NYU</h3>
 
 <ul>
-<li>The ability to identify, define, collect, analyze, and communicate relevant data from diverse sources (tabular, web, sensors, etc.)</li>
-<li>A depth of knowledge in a particular urban domain, such as energy, buildings, transportation, etc., and in a discipline, including visualization, decision models and optimization, simulation and computational methods</li>
-<li>An understanding of urban science and urban informatics and their relationship to the operation and development of cities</li></li>
-<li>An ability to identify and assess problems, evaluate data needs and analytical approaches to problem-solving, and develop solutions in real-world, multiple-constraint contexts</li>
-<li>The ability to utilize large-scale data to better understand city functions</li>
-<li>Direct, hands-on experience working in high-intensity, real-world environments with industry and agency partners</li>
-<li>The ability to manage and lead complex processes of technology innovation and deployment</li>
-<li>Leadership skills for your chosen career path in an entrepreneurial venture or existing organization</li>
+<li>The ability to identify, define, collect, analyze, and communicate relevant data from diverse sources (tabular, web, sensors, etc.).</li>
+<li>A depth of knowledge in a particular urban domain, such as energy, buildings, transportation, etc., and in a discipline, including visualization, decision models and optimization, simulation and computational methods.</li>
+<li>An understanding of urban science and urban informatics and their relationship to the operation and development of cities.</li>
+<li>An ability to identify and assess problems, evaluate data needs and analytical approaches to problem-solving, and develop solutions in real-world, multiple-constraint contexts.</li>
+<li>The ability to utilize large-scale data to better understand city functions.</li>
+<li>Direct, hands-on experience working in high-intensity, real-world environments with industry and agency partners.</li>
+<li>The ability to manage and lead complex processes of technology innovation and deployment.</li>
+<li>Leadership skills for your chosen career path in an entrepreneurial venture or existing organization.</li>
 </ul>
 
 <h2>Companies</h2>
-<h1>Urban Footprint</h1>
+<h3>Urban Footprint</h13
   
 We deliver Urban Intelligence that empowers those who build our world to design a more efficient, equitable, and resilient future.
 We believe that organizations equipped with the best data and latest tools make more sound decisions. Accelerating climate change, deepening social inequities, and the profound, disparate impacts of the COVID-19 crisis have all laid bare the inadequacy of current systems to provide decision makers with the clear and honest information they need to drive effective and equitable decisions.
 
 UrbanFootprint’s mission is to close this gap. We serve governments, enterprises, and other stakeholders with comprehensive, granular, and context-rich data about the urban and natural landscape, paired with highly targeted insights that map and measure risk and opportunity, to prioritize investments and resources where they’re needed most.
 
-<h1>Unfolded</h1>
+<h3>Unfolded</h3>
   
-Geospatial Data Reinvented
+Geospatial Data Reinvented.
+
 A geospatial analytics platform for data unification, enrichment, and visualization.
   
-Spatial Unification
+Spatial Unification.
+
 Hexagon-based spatial indexing removes barriers between geospatial shapes. Effortlessly combine, aggregate and correlate datasets with different boundaries, such as states, counties, zip codes and census tracts.
   
-All-In-One Platform
+All-In-One Platform.
+
 The geospatial features and datasets you need, packaged in one easy-to-use tool. Make geospatial insights with a few simple clicks, then share them as beautiful maps on the web.
 
-GPU-based Analytics and Visualization
+GPU-based Analytics and Visualization.
 Our GPU powered technology provides unprecedented performance for rapid data exploration. Fluidly filter, aggregate, and play back million-row datasets directly in your browser.
 <img src="https://raw.githubusercontent.com/evergreencircle/research/master/man.png" alt="Data Science in Urbanism">
 
@@ -62,6 +65,6 @@ Our GPU powered technology provides unprecedented performance for rapid data exp
   <li><a  href="https://www.unfolded.ai/">Unfolded
 </a></li>
 <li><a href="https://urbanfootprint.com/">Urban Footprint</a></li>
-<li><a href="https://dusp.mit.edu/news/exploring-urban-science">Exploring Urban Science</a></li>
-<li><a href="https://cusp.nyu.edu/">MS in Urban Scince</a></li>  
+<li><a href="https://dusp.mit.edu/news/exploring-urban-science">Exploring Urban Science, MIT</a></li>
+<li><a href="https://cusp.nyu.edu/">MS in Urban Scince, NYU</a></li>  
 </ol>
