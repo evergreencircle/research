@@ -34,7 +34,7 @@ We hope the programm will attract students who are interested in computing and p
 </ul>
 
 <h2>Companies</h2>
-<h3>Urban Footprint</h13
+<h3>Urban Footprint</h3>
   
 We deliver Urban Intelligence that empowers those who build our world to design a more efficient, equitable, and resilient future.
 We believe that organizations equipped with the best data and latest tools make more sound decisions. Accelerating climate change, deepening social inequities, and the profound, disparate impacts of the COVID-19 crisis have all laid bare the inadequacy of current systems to provide decision makers with the clear and honest information they need to drive effective and equitable decisions.
